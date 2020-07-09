@@ -1,0 +1,112 @@
+INFO 2020-07-08 20:16:45,926 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 20:19:37,877 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 20:25:16,823 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 20:25:22,039 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-07-08 20:25:22,046 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-07-08 20:25:22,739 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-07-08 20:25:22,954 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-07-08 20:25:54,370 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 20:29:27,773 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 20:29:28,446 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 20:31:50,383 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 20:31:50,980 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:36:57,246 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:36:59,156 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-07-08 21:36:59,335 basehttp 157 "GET / HTTP/1.1" 200 16351
+WARNING 2020-07-08 21:36:59,355 log 228 Not Found: /favicon.ico
+WARNING 2020-07-08 21:36:59,356 basehttp 157 "GET /favicon.ico HTTP/1.1" 404 1971
+INFO 2020-07-08 21:38:02,937 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-07-08 21:38:03,175 basehttp 157 "GET / HTTP/1.1" 200 16351
+INFO 2020-07-08 21:39:28,685 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:39:29,315 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:39:46,187 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 21:39:46,790 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 21:40:19,903 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 21:40:27,683 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 21:40:27,737 log 228 Bad Request: /
+WARNING 2020-07-08 21:40:27,738 basehttp 157 "GET / HTTP/1.1" 400 69375
+INFO 2020-07-08 21:52:29,883 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 21:52:32,559 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 21:52:32,608 log 228 Bad Request: /
+WARNING 2020-07-08 21:52:32,608 basehttp 157 "GET / HTTP/1.1" 400 69375
+ERROR 2020-07-08 21:52:32,612 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 21:52:32,644 log 228 Bad Request: /
+WARNING 2020-07-08 21:52:32,645 basehttp 157 "GET / HTTP/1.1" 400 69375
+INFO 2020-07-08 21:55:14,342 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 22:20:12,272 autoreload 598 Watching for file changes with StatReloader
+ERROR 2020-07-08 22:20:14,411 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:20:14,462 log 228 Bad Request: /
+WARNING 2020-07-08 22:20:14,463 basehttp 157 "GET / HTTP/1.1" 400 69375
+ERROR 2020-07-08 22:20:14,465 exception 77 Invalid HTTP_HOST header: '127.0.0.1:9000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+WARNING 2020-07-08 22:20:14,490 log 228 Bad Request: /
+WARNING 2020-07-08 22:20:14,491 basehttp 157 "GET / HTTP/1.1" 400 69375
+INFO 2020-07-08 23:02:03,053 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:02:04,063 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:02:58,827 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:02:59,581 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:13:11,470 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:13:12,105 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:14:11,722 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:14:12,392 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:14:52,318 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:15:59,350 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:16:38,838 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:16:53,747 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:18:19,871 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:18:20,470 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:20:52,811 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:20:53,399 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:21:32,873 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\urls.py changed, reloading.
+INFO 2020-07-08 23:21:33,529 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:22:09,253 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\urls.py changed, reloading.
+INFO 2020-07-08 23:22:09,967 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:22:24,571 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\urls.py changed, reloading.
+INFO 2020-07-08 23:22:25,185 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:22:37,546 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\urls.py changed, reloading.
+INFO 2020-07-08 23:22:38,227 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:22:49,543 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\urls.py changed, reloading.
+INFO 2020-07-08 23:22:50,267 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:23:24,019 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\urls.py changed, reloading.
+INFO 2020-07-08 23:23:24,666 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:37:28,064 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:38:34,271 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:43:54,466 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:46:27,344 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:47:57,945 autoreload 598 Watching for file changes with StatReloader
+WARNING 2020-07-08 23:48:08,555 log 228 Not Found: /
+WARNING 2020-07-08 23:48:08,555 basehttp 157 "GET / HTTP/1.1" 404 1938
+WARNING 2020-07-08 23:48:08,813 log 228 Not Found: /
+WARNING 2020-07-08 23:48:08,814 basehttp 157 "GET / HTTP/1.1" 404 1938
+WARNING 2020-07-08 23:48:08,826 log 228 Not Found: /
+WARNING 2020-07-08 23:48:08,826 basehttp 157 "GET / HTTP/1.1" 404 1938
+WARNING 2020-07-08 23:48:08,835 log 228 Not Found: /
+WARNING 2020-07-08 23:48:08,837 basehttp 157 "GET / HTTP/1.1" 404 1938
+WARNING 2020-07-08 23:48:09,089 log 228 Not Found: /
+WARNING 2020-07-08 23:48:09,090 basehttp 157 "GET / HTTP/1.1" 404 1938
+INFO 2020-07-08 23:50:44,399 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:50:45,039 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:52:00,977 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-08 23:52:01,618 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:53:31,369 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\apps\home\models.py changed, reloading.
+INFO 2020-07-08 23:53:32,168 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:53:45,601 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\apps\home\models.py changed, reloading.
+INFO 2020-07-08 23:53:46,201 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-08 23:56:27,299 autoreload 598 Watching for file changes with StatReloader
+WARNING 2020-07-08 23:58:04,519 log 228 Not Found: /
+WARNING 2020-07-08 23:58:04,520 basehttp 157 "GET / HTTP/1.1" 404 1938
+INFO 2020-07-09 00:07:00,345 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:07:00,997 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:07:44,348 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:07:45,014 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:08:25,481 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\urls.py changed, reloading.
+INFO 2020-07-09 00:08:26,197 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:09:00,465 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:12:15,107 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:12:53,045 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:17:01,095 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:17:01,690 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:17:08,671 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:17:09,338 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:17:57,287 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
+INFO 2020-07-09 00:17:57,933 autoreload 598 Watching for file changes with StatReloader
+INFO 2020-07-09 00:44:01,928 autoreload 222 C:\Users\Administrator\PycharmProjects\frame\frame\settings\develop.py changed, reloading.
